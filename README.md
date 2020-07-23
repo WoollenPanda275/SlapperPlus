@@ -1,5 +1,5 @@
-## I DO NOT OWN THIS PLUGIN.
-# LOOK AT MY DEV BUILDS ON POGGIT TO DOWNLOAD
+# I DO NOT OWN THIS PLUGIN.
+This plugin is not an update to slapper it is an add-on. I am not the owner of the plugin however people were asking for a way to download it, so here it is.
 <a href="https://discord.gg/YyraGX4"><img src="https://discordapp.com/api/guilds/412491783486832640/embed.png" alt="Discord server"/></a>
 
 Add-on plugin for Slapper, using forms to create & manage Slapper entities
