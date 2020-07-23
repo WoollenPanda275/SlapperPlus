@@ -1,5 +1,5 @@
-## THIS IS A SLAPPER ADDON, NOT A NEW UPDATE TO SLAPPER
-# SlapperPlus
+## I DO NOT OWN THIS PLUGIN.
+# LOOK AT MY DEV BUILDS ON POGGIT TO DOWNLOAD
 <a href="https://discord.gg/YyraGX4"><img src="https://discordapp.com/api/guilds/412491783486832640/embed.png" alt="Discord server"/></a>
 
 Add-on plugin for Slapper, using forms to create & manage Slapper entities
